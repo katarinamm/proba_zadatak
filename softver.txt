@@ -5,4 +5,5 @@
 2, Javafx, 700000, java, Biblioteka za graficki korisnicki interfejs.
 2, Qt, 900000, c++, Biblioteka i radni okvir za programski jezik c++.
 2, Boost spirit, 650000, c++, Biblioteka za kreiranje parsera.
-2, jQuery, 600000, JavaScript, Biblioteka za jezik JavaScript. 
+2, jQuery, 600000, JavaScript, Biblioteka za jezik JavaScript.
+1, Nesto,2000, java, biblioteka neka. 
